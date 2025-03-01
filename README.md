@@ -6,4 +6,4 @@
 <br>
 <br>There is an online game on computer without any rewards.
 <br>Need Pengu Loader, don't let players waste time on ads, FuckYou Riot🖕🖕🖕.
-<br>Please do not share this on social media platforms like Bilibili. Any dissemination will only accelerate the demise of personalized plugins.
+<br>Please do not share this on social media platforms like Youtube. Any dissemination will only accelerate the demise of personalized plugins.

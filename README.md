@@ -1,4 +1,4 @@
-# 秒关英雄联盟客户端开屏广告Automatically close League of Legends client startup ads
+# 秒关英雄联盟客户端开屏广告<br>Automatically close League of Legends client startup ads
 <br>
 <br>电脑上有一款没有任何奖励的网络游戏。
 <br>需要配合Pengu Loader使用，不要玩家浪费时间在广告上，去你妈的拳头🖕🖕🖕。
